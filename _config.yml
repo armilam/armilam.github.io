@@ -22,6 +22,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aaron.milam.io"
 twitter_username: IAmAMilam
 github_username:  armilam
+linkedin_username: aaronmilam
+
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
