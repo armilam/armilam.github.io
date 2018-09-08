@@ -2,7 +2,7 @@
 layout: post
 title:  Where is the iOS app industry headed?
 date:   2013-11-07 20:49:00 -0400
-tags:   ios
+tags:   ios blog-battle
 ---
 
 I'm worried about the iOS app industry.

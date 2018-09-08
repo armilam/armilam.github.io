@@ -2,7 +2,7 @@
 layout: post
 title:  Curiosity as a tool
 date:   2013-11-15 19:57:00 -0400
-tags:   
+tags:   blog-battle
 ---
 
 SEP has asked us to write about the tools of our trade. I'm a software engineer at a decently-sized software engineering company, so it's pretty clear that I have several tools in my programming toolbox. Things like [Sublime Text](http://www.sublimetext.com/) for scripting, [Kaleidoscope](https://www.kaleidoscopeapp.com/) for file diffs, [Stackoverflow](http://stackoverflow.com/) for Q&amp;A and community, and even Spotify for getting in the zone.
