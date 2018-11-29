@@ -40,7 +40,7 @@ I love receiving feedback, even critical feedback, because that is one of the fa
 
 When I am a manager, I try my best to provide the guidance my team needs without telling them how to do their work. I really like it when my teams work autonomously, but I also really enjoy being a part of what's going on. When I can't, I prefer to be kept in the loop. And I don't mean hourly updates; instead, let's chat anytime something major changes and let's talk at least weekly about what's going on and what's next.
 
-I like to set up weekly half-hour one-on-one meetings with each of my teammates. This is a time for us to let each other know how we feel, what we need, and anything else on our minds. Having this time scheduled allows us to be intentional about sharing our needs with each other. Of course, if we need to talk about something before our next scheduled 1:1 meeting, let's talk as soon as we can. There is no need to wait.
+I like to set up weekly one-on-one meetings with each of my teammates. This is a time for us to let each other know how we feel, what we need, and anything else on our minds. Having this time scheduled allows us to be intentional about sharing our needs with each other. Of course, if we need to talk about something before our next scheduled 1:1 meeting, let's talk as soon as we can. There is no need to wait.
 
 I prefer our communication to be as direct as possible. That goes both ways. It is better to be clear about our needs than it is to let problems fester over time. I hope we can both understand that we are sharing with each others' best interests at heart.
 
