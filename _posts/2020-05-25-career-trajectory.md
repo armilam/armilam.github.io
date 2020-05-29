@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career trajectory for a software engineer like me
+title: Career path for a software engineer like me
 date: 2020-05-25 11:05:00 -0400
 tags:
 ---
