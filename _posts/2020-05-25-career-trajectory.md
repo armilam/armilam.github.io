@@ -50,3 +50,7 @@ While I don't get to own the products I build, I am building the foundation for 
 ## More to come
 
 I am nowhere near the end of my career. I hope to continue building teams, helping others figure out their own trajectories, and building great software that people love. And it is my hope that by recounting my own path may help you plan your own.
+
+---
+
+_NOTE: I realize that I have been incredibly lucky and privileged. After all, I am a straight, white, cisgender man in an industry dominated by exactly that kind of person. I didn't write this as a guide to follow, or as a path that anybody should emulate. I only mean to share my experience in hopes that others would do the same so that we can all learn from each other's experiences._
