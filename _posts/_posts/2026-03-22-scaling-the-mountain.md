@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Scaling the Mountain
-date: 2026-03-22 10:43:00 -0400
-tags:
+date: 2026-03-18 08:26:57 -0400
+tags: [ai]
 ---
 
 # Scaling the Mountain
@@ -25,7 +25,7 @@ That distinction - _show me how_ versus _do it for me_ - made all the difference
 
 Within a couple of months, I went from genuinely lost to genuinely capable. Not just functional, but capable. I understood why things were built the way they were, what the failure modes looked like, and how to think about changes without breaking what was already working.
 
-The questions I was asking Claude started to change. Early on it was "how does this work?" and "what does this error mean?" Now it's "here's what I want to accomplish - walk me through a plan to get there." I am no longer trying to figure out the system. I am working on elevating it. Zero-downtime deployments, better rollback, untangling the parts of the architecture that have drifted into chaos.
+The questions I was asking Claude started to change. Early on it was "how does this work?" and "what does this error mean?" Now it's "here's what I want to accomplish - walk me through a plan to get there." I am no longer trying to figure out the system. I'm working on elevating it. Zero-downtime deployments, better rollback, untangling the parts of the architecture that have drifted into chaos.
 
 That shift didn't happen because Claude gave me the answers. It happened because I asked for the understanding behind the answers.
 
