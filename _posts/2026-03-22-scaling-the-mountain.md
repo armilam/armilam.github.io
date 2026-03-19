@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scaling the Mountain
-date: 2026-03-18 08:26:57 -0400
+date: 2026-03-19 08:26:57 -0400
 tags: [ai]
 ---
 
