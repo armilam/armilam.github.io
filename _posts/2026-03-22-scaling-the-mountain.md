@@ -5,8 +5,6 @@ date: 2026-03-19 08:26:57 -0400
 tags: [ai]
 ---
 
-# Scaling the Mountain
-
 When I started my new job, I was staring at a mountain.
 
 New language - C# hadn't been in my stack for over a decade. New platform - Azure, which I'd never worked in. New architecture - microservices on Kubernetes, which I'd used briefly but never owned. And I was responsible for all of it. Not eventually. Immediately.
